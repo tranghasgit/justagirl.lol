@@ -1,0 +1,18 @@
+html{margin:0;}
+body{margin:0;padding:0;}
+.body{
+  margin:0;
+  background: yellow;
+  height: 100vh;
+}
+p{margin:0;text-align: center;
+  /* background: white; */
+}
+#birthday{position: absolute; width: 100vw; height: 100vh;overflow: hidden;  display: flex; justify-content: center; align-items: center;}
+#birthday img{width: 90%; margin: auto;}
+.quotes{display:flex;flex-direction: row;flex-wrap: wrap;}
+.slay{width: 50vw;height:40vh;background-color: pink;font-size: 5em;line-height: 1.1; padding-top: 10vh;overflow: scroll;}
+.q1{font-family: cursive; background-image:url("https://dk2dv4ezy246u.cloudfront.net/widgets/sS7r5AyaJZ8_large.jpg");background-size: contain;}
+.q2{font-family: fantasy; background-image:url("https://realwomenofgaming.com/wp-content/uploads/2017/03/sailor-moon-heart.gif?w=500&h=375");background-size: cover;}
+.q3{font-family: "Bonbon", cursive;background-image:url("https://i.chzbgr.com/full/4641244928/h47D5FF2D/cat");background-size: cover;}
+.q4{font-family: "Ballet", cursive;font-size: 6em;background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1mrcTdN1NRSe_6ocsLv4VjSyQMMc4HcHNw&s");background-size: contain;}
